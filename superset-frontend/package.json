@@ -234,7 +234,7 @@
     "simple-zstd": "^2.1.0",
     "stream-browserify": "^3.0.0",
     "tinycolor2": "^1.6.0",
-    "urijs": "^1.19.8",
+    "urijs": "^1.19.11",
     "use-event-callback": "^0.1.0",
     "use-immer": "^0.11.0",
     "use-query-params": "^2.2.2",
